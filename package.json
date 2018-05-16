@@ -10,7 +10,7 @@
     "slack"
   ],
   "author": "Rudra Gupta, Krumware LLC.",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@slack/client": "^3.12.0",
     "async": "^2.1.5",
